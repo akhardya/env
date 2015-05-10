@@ -36,4 +36,8 @@ colorscheme solarized
 "set background=light
 "colorscheme solarized
 
+"config:
+set tabstop=2
+set shiftwidth=2
+set autoindent
 

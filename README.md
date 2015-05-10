@@ -1,4 +1,9 @@
 #Here is my config repo.
+ *.vimrc
+ *.zshrc
+ *.bahrc
+ *.bashrc_profile
+ *.tmux.conf
 
 ##Tips on problem meet
 
